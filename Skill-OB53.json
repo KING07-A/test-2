@@ -340,12 +340,12 @@
     "Skill": "box"
   },
   {
-    "name": "box",
+    "name": "Defense Breaker",
     "id": 6906,
     "Skill": "box"
   },
   {
-    "name": "box",
+    "name": "Electro Therapy",
     "id": 7006,
     "Skill": "box"
   },
@@ -365,7 +365,7 @@
     "Skill": "box"
   },
   {
-    "name": "box",
+    "name": "Valiant Dash",
     "id": 7406,
     "Skill": "box"
   },
